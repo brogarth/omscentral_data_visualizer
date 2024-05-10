@@ -1,0 +1,72 @@
+﻿ID,Name,Reviews,Difficulty,Workload,Rating,Department
+CS-6250,Computer Networks f,412,2.43,8.5,3.55,CS
+CS-6035,Introduction to Information Security f,397,2.54,10.19,3.46,CS
+CS-7646,Machine Learning for Trading f,340,2.5,10.81,4.08,CS
+CS-7641,Machine Learning f,325,4.12,21.17,3.31,CS
+CS-6200,Introduction to Operating Systems f,297,3.67,17.94,4.41,CS
+CS-6300,Software Development Process f,294,2.31,9.03,3.64,CS
+CS-6515,Introduction to Graduate Algorithms f,272,4.19,19.33,3.7,CS
+CS-7637,Knowledge-Based Artificial Intelligence: Cognitive Systems f,263,3.1,13.36,3.59,CS
+CS-7638,Artificial Intelligence for Robotics f,262,2.98,12.5,3.92,CS
+CSE-6242,Data & Visual Analytics f,240,3.24,15.62,2.99,CSE
+CS-6601,Artificial Intelligence f,230,4.1,22.76,4.11,CS
+CS-6400,Database Systems Concepts & Design f,202,2.78,10.72,2.69,CS
+CS-6750,Human-Computer Interaction f,196,2.58,12.17,4.11,CS
+CS-6310,Software Architecture & Design f,185,2.58,11.04,3.17,CS
+CS-7642,Reinforcement Learning f,182,4.12,21.95,3.9,CS
+CS-6475,Computational Photography f,179,3.21,16.55,3.6,CS
+CS-6476,Computer Vision f,175,3.99,20.78,3.95,CS
+ISYE-6501,Introduction to Analytics Modeling ,141,2.86,10,4.24,ISYE
+CS-6340,Software Analysis f,135,3.24,12.82,3.42,CS
+CS-6262,Network Security f,121,3.05,13,3.15,CS
+CS-6210,Advanced Operating Systems f,108,4.18,16.7,4.16,CS
+CS-6440,Introduction to Health Informatics f,106,2.26,10.14,2.58,CS
+CS-6290,High Performance Computer Architecture f,104,3.68,14.33,3.85,CS
+CSE-6040,Computing for Data Analytics ,98,3.19,9.7,4.44,CSE
+MGT-6203,Data Analytics & Business ,97,1.89,4.5,2.3,MGT
+CS-6460,Educational Technology f,94,2.83,14.24,3.97,CS
+ISYE-6644,Simulation ,81,3.2,10.1,4.33,ISYE
+MGT-8803,Business Fundamentals for Analytics f,78,2.95,7.75,2.41,MGT
+CS-6263,Introduction to Cyber Physical Systems Security f,76,2.61,10.45,3.41,CS
+ISYE-6414,Regression Analysis ,76,2.93,8.96,3.36,ISYE
+CSE-6220,High Performance Computing f,67,4.34,19.06,4.39,CSE
+CSE-6250,Big Data for Health Informatics f,64,4.39,29.27,3.75,CSE
+ISYE-6420,Bayesian Statistics f,49,3.2,11.76,2.63,ISYE
+CS-7643,Deep Learning f,44,3.89,17.93,4.27,CS
+CS-6291,Embedded Systems Optimization f,34,3.59,15.76,3.47,CS
+CS-6603,"AI, Ethics & Society f",33,1.76,5.79,2.61,CS
+ISYE-8803,High-Dimensional Data Analytics ,32,4.16,18.41,4.25,ISYE
+ISYE-6669,Deterministic Optimization ,31,3.74,10.42,4.1,ISYE
+ISYE-6740,Computational Data Analytics ,30,3.73,14.83,3.9,ISYE
+CS-6260,Applied Cryptography ,29,3.59,13.17,3.66,CS
+CS-7210,Distributed Computing f,29,4.62,65.24,2.76,CS
+CS-6238,Secure Computer Systems ,28,3.43,14.32,2.89,CS
+CS-7639,Cyber Physical Design & Analysis f,28,3.25,12.36,3,CS
+ISYE-6402,Time Series Analysis ,28,4.25,14.14,1.79,ISYE
+CS-7280,Network Science f,20,2.85,14.15,3.15,CS
+MGT-6311,Digital Marketing ,17,1.35,3.47,4.18,MGT
+CS-6265,Information Security Lab: Binary Exploitation ,15,4.4,31.73,4.4,CS
+PUBP-6725,Information Security Policies ,15,1.93,6.27,3.4,PUBP
+MGT-8813,Financial Modeling ,14,1.29,4.64,3,MGT
+MGT-8823,Data Analytics & Continuous Improvement ,13,1.15,3.85,3.46,MGT
+CS-8803-08,Compilers: Theory & Practice ,12,4.58,28.33,4.17,CS
+CS-8803-04,Embedded Software d,11,3.55,15.82,3.7,CS
+INTA-6450,Data Analytics & Security ,11,1.36,2.91,3.27,INTA
+MGT-8833,Privacy for Professionals ,10,1.8,3.2,4.2,MGT
+CS-6457,Video Game Design ,9,2.33,13.44,4.22,CS
+CS-8803,Security Operations & Incidence Response ,7,2,4.71,3.71,CS
+ISYE-7406,Data Mining & Statistical Learning ,7,2.43,12.57,4.14,ISYE
+PUBP-6501,Information Policy & Management ,7,2.57,10.43,2.43,PUBP
+CS-6747,Advanced Malware Analysis ,6,3.67,17.17,4.33,CS
+CS-7632,Game AI f,5,2.2,10.6,4.2,CS
+CS-8803-11,Information Security Lab: System & Network Defenses ,4,4,17.5,3.25,CS
+INTA-6742,"Modeling, Simulation & Military Gaming ",3,1.67,7.67,4,INTA
+MGT-6748,Applied Analytics Practicum ,3,2,14.67,4.33,MGT
+PUBP-6502,Information & Communications Policy ,3,1.33,2.33,4.33,PUBP
+CS-8803-12,Systems Issues in Cloud Computing f,2,5,27.5,4.5,CS
+CS-6465,Computational Journalism d,1,3,15,4,CS
+ECE-8843,Side Channels in Cyber Space ,1,3,10,5,ECE
+INTA-6103,International Security ,1,3,3,4,INTA
+ISYE-6416,Computational Statistics ,1,3,12,3,ISYE
+ISYE-6650,Probabilistic Models ,1,2,5,4,ISYE
+PUBP-6111,Internet & Public Policy ,1,1,3,4,PUBP
